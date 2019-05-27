@@ -110,7 +110,6 @@ var popup = function (dom, clickDom, options) {
     function handlePop(animate) {
 
         $(clickDom).on('click', function () {
-            console.log(synthesisStyle());
             $popupMaskEl.show();
             $popupContentEl.attr('style', synthesisStyle());
             $popupContentEl.animate(animate, duration);
