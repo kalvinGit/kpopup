@@ -36,3 +36,4 @@ new popup('#rightPopup', '#rightBtn', {
 ```
 
 ## 效果图
+![滑出效果](https://github.com/kalvinGit/kpopup/blob/master/img/GIF.gif)
