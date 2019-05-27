@@ -1,4 +1,4 @@
-# kpopup
+# kpopup插件
 基于jQuery的轻量级滑出层插件，无需依赖任何Css文件
 
 # 使用说明
@@ -37,3 +37,5 @@ new popup('#rightPopup', '#rightBtn', {
 
 ## 效果图
 ![滑出效果](https://github.com/kalvinGit/kpopup/blob/master/img/GIF.gif)
+
+[Kalvin在线工具](https://tools.kalvinbg.cn)  
